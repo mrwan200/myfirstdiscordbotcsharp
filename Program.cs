@@ -56,7 +56,7 @@ namespace My_First_Discord_.NET
 
             if((msg.HasCharPrefix(prefix, ref arg)))
             {
-
+                // ค้างอยู่ตรงนี้้ 555+
             }
 
 
