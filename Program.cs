@@ -39,7 +39,7 @@ namespace My_First_Discord_.NET
         public async Task Run()
         {
             // _client.Log += Log;
-            var token = "Nzc3ODcyNTAyNjkzMTY3MTA1.X7JwOA.nyDWm8q3lvZot5VkR-Qx2C5ty0k";
+            var token = "Nzc3ODcyNTAyNjkzMTY3MTA1.............";
 
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
