@@ -1,0 +1,22 @@
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\My First Discord .NET.exe
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\My First Discord .NET.deps.json
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\My First Discord .NET.runtimeconfig.json
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\My First Discord .NET.runtimeconfig.dev.json
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\My First Discord .NET.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\My First Discord .NET.pdb
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.csprojAssemblyReference.cache
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.AssemblyInfoInputs.cache
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.AssemblyInfo.cs
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.csproj.CoreCompileInputs.cache
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.csproj.CopyComplete
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.dll
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.pdb
+C:\Users\M-307\source\repos\My First Discord .NET\My First Discord .NET\obj\Debug\netcoreapp3.1\My First Discord .NET.genruntimeconfig.cache
