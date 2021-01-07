@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Collections;
 using System.Runtime.CompilerServices;
 
-namespace My_First_Discord_.NET
+namespace My_First_Discord_NET
 {
     public class Program
     {
